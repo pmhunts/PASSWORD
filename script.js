@@ -25,7 +25,7 @@ const strengthText = document.getElementById('strengthText');
 const strengthIndicator = document.getElementById('strengthIndicator');
 
 // API Base URL - change this to your server URL in production
-const API_BASE_URL = 'https://password-exhv.onrender.com';
+const API_BASE_URL = 'https://passwordmanager-9rsw.onrender.com';
 
 // State variables
 let isLogin = true;
